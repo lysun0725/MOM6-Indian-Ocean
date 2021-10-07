@@ -1,0 +1,12 @@
+Gulf_of_Mexico
+1900 1 1 0 0 0
+
+"ocean_daily",            1, "days",   1, "days", "time"
+
+"ocean_model",  "SSH",       "ssh",      "ocean_daily",        "all", "mean", "none",2  
+"ocean_model",  "SSU",       "ssu",      "ocean_daily",        "all", "mean", "none",2  
+"ocean_model",  "SSV",       "ssv",      "ocean_daily",        "all", "mean", "none",2  
+"ocean_model",  "SST",       "sst",      "ocean_daily",        "all", "mean", "none",2  
+"ocean_model",  "KE",       "KE",      "ocean_daily",        "all", "mean", "none",2  
+"ocean_model",  "KE_xyave",  "KE_xyave", "ocean_daily",        "all", "mean", "none",2
+"ocean_model",  "PE_to_KE_xyave", PE_to_KE_xyave, "ocean_daily",        "all", "mean", "none",2
