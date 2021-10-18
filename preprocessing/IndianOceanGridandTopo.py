@@ -18,8 +18,8 @@ from midas.rectgrid_utils import *
 #y=np.linspace(18.,30.5,301)
 x=np.linspace(30.,120.,1441)
 y=np.linspace(-30.,30.,961)
-ni=1441
-nj=961
+ni=1440
+nj=960
 
 X,Y=np.meshgrid(x,y)
 
